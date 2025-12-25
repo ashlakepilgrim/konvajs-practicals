@@ -1,16 +1,13 @@
-# React + Vite
+<h2 align="center">KonvaJS Practicals</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <a href="https://github.com/ashlakepilgrim/konvajs-practicals/stargazers"><img src="https://img.shields.io/github/stars/ashlakepilgrim/konvajs-practicals?colorA=151515&colorB=B0BEC5&style=for-the-badge"></a>
+  <a href="https://github.com/ashlakepilgrim/konvajs-practicals/issues"><img src="https://img.shields.io/github/issues/ashlakepilgrim/konvajs-practicals?colorA=151515&colorB=607D8B&style=for-the-badge"></a>
+  <a href="https://github.com/ashlakepilgrim/konvajs-practicals/network/members"><img src="https://img.shields.io/github/forks/ashlakepilgrim/konvajs-practicals?colorA=151515&colorB=FFFFFF&style=for-the-badge"></a>
+  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFEBEE&labelColor=151515&style=for-the-badge">
+</p>
 
-Currently, two official plugins are available:
+### Showcase
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="3256" height="2104" alt="image" src="https://github.com/user-attachments/assets/08912e29-919d-476f-aff1-e624ec689b82" />
 
-## React Compiler
-
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
