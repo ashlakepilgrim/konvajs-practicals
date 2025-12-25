@@ -1,0 +1,71 @@
+#root {
+  max-width: 1280;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.title {
+  margin-bottom: 1rem;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.coordinates {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.show-terminal {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.dimensions-input {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.canvas {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.utils-menu {
+  width: 50px;
+  padding: 20px;
+  border: 1px solid gray;
+  border-radius: 20px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.stage {
+  border: 1px solid gray;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+
+.terminal {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid gray;
+  border-radius: 20px;
+  overflow-y: auto;
+}
